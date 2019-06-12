@@ -9,3 +9,10 @@ Exploring historical Tour de France data
 ```bash
 python tdf_scraper.py
 ```
+
+##### 2. Analysis
+
+```bash
+jupyter notebook tdf_analysis.ipynb
+```
+
