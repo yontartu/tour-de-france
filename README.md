@@ -4,10 +4,10 @@ Exploring historical Tour de France data
 
 ## Set-Up Instructions
 
-##### 1. Download data from the [offical Tour website](www.letour.fr).
+##### 1. Scrape data from the [offical Tour website](https://www.letour.fr).
 
 ```bash
-python tdf_scraper.py
+python scrape_tdf_data.py
 ```
 
 ##### 2. Analysis
@@ -15,4 +15,3 @@ python tdf_scraper.py
 ```bash
 jupyter notebook tdf_analysis.ipynb
 ```
-
