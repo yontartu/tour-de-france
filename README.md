@@ -1,6 +1,7 @@
 # A Visual History of the Tour de France
 
-Exploring historical Tour de France data
+![alt text](https://github.com/yontartu/tour-de-france/blob/master/img/11_paris_chord.png)
+![alt text](https://github.com/yontartu/tour-de-france/blob/master/img/07_nationality_mixture_over_time.png)
 
 ## Set-Up Instructions
 
@@ -15,3 +16,5 @@ python scrape_tdf_data.py
 ```bash
 jupyter notebook tdf_analysis.ipynb
 ```
+
+##### Check out some visualizations I build in the [`img` folder](https://github.com/yontartu/tour-de-france/tree/master/img).
