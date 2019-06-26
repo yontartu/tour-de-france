@@ -1,16 +1,15 @@
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
-### Python ###
-
+### my files to ignore ###
 data/example*
 data/1*
 data/2*
 data/old_experimenting
 data/year_links_dict.pkl
-
 tdf_notes.md
 
+### Python ###
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
