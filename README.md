@@ -6,6 +6,8 @@ A chord chart showing every stage ridden between cities in France since 1903
 
 ![alt text](https://github.com/yontartu/tour-de-france/blob/master/img/07_nationality_mixture_over_time.png)
 
+![alt text](https://github.com/yontartu/tour-de-france/blob/master/img/01_cumulative_yellow_jerseys_over_time.png)
+
 ## Set-Up Instructions
 
 ##### 1. Scrape data from the [offical Tour website](https://www.letour.fr).
@@ -20,4 +22,4 @@ $ python scrape_tdf_data.py
 $ jupyter notebook tdf_analysis.ipynb
 ```
 
-##### Check out some visualizations I've built in the [`img` folder](https://github.com/yontartu/tour-de-france/tree/master/img).
+##### Check out some of the other data visualizations I've built in the [`img` folder](https://github.com/yontartu/tour-de-france/tree/master/img).
