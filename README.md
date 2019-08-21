@@ -1,6 +1,6 @@
 # A Visual History of the Tour de France
 
-A chord chart showing every stage ridden between cities in France since 1903
+Code in support of [my piece](https://joeygoodman.us/articles/a-visual-history-of-the-tour-de-france) charting how the Tour de France has evolved over the past century. 
 
 ![alt text](https://github.com/yontartu/tour-de-france/blob/master/img/12_chord_chart.gif) 
 
